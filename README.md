@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kimani Waweru
+- 👋 Hi, I’m @Kimani Waweru a full stack developer with 4.5 years experience in the field. I have created a couple of web apps and software during that time and I am well versed in Javascript, HTML, SASS, Tailwind CSS, SQL, React.js and React Native. I'm also at intermediate level in C++, Java and Kotlin.
 - 👀 I’m interested in UI/UX designs as well as modern software, app and web development
 - 🌱 I’m currently learning Next.js and cybersecurity...
 - 💞️ I’m looking to collaborate on some UI/UX projects with like-minded developers who also value the need of creating modern apps
